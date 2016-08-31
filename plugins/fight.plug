@@ -1,0 +1,12 @@
+[Core]
+module = fight
+name = fight
+
+[Documentation]
+description = fight
+
+[Python]
+version = 3
+
+[Errbot]
+

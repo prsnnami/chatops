@@ -1,0 +1,11 @@
+[Core]
+name = cookie-monster
+module = cookie-monster
+
+[Documentation]
+description = cookies
+
+[Python]
+version = 3
+
+[Errbot]
