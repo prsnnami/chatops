@@ -1,0 +1,12 @@
+[Core]
+module = commands
+name = commands
+
+[Documentation]
+description = bot commands
+
+[Python]
+version = 3
+
+[Errbot]
+

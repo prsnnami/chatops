@@ -1,0 +1,11 @@
+[Core]
+name = fun
+module = fun
+
+[Documentation]
+description = misc
+
+[Python]
+version = 3
+
+[Errbot]

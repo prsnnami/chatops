@@ -17,7 +17,7 @@ BOT_IDENTITY = {
     'token': '269871661:AAGjvgoGjfM80ARCtmMziUtTlzdOy5alTsA',
 }
 
-BOT_ADMINS = ('142595053', )  # !! Don't leave that to "CHANGE ME" if you connect your errbot to a chat system !!
+BOT_ADMINS = ('142595053')  # !! Don't leave that to "CHANGE ME" if you connect your errbot to a chat system !!
 
 CHATROOM_PRESENCE = ()
-BOT_PREFIX = '/' 
+BOT_PREFIX = '/'

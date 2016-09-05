@@ -1,0 +1,9 @@
+[Core]
+Name = git.
+Module = git.py
+
+[Documentation]
+Description = lol.
+
+[Python]
+Version = 2+
